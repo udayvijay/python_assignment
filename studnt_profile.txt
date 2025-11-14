@@ -1,0 +1,9 @@
+----- STUDNT PROFILE -----
+Name: 11
+Roll No: 11
+Cours: 11
+Univ: 11
+City: 11
+Age: 11
+Hobby: 11
+--------------------------
